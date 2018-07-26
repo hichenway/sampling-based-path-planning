@@ -1,0 +1,42 @@
+environment:
+  obstacles:
+    obstacle0000:
+      corners:
+      - [0.0, 0.0]
+      - [0.0, 1.0]
+      - [4.0, 1.0]
+      - [4.0, 0.0]
+      - [0.0, 0.0]
+      shape: polygon
+    obstacle0001:
+      corners:
+      - [0.0, 4.0]
+      - [0.0, 5.0]
+      - [4.0, 5.0]
+      - [4.0, 4.0]
+      - [0.0, 4.0]
+      shape: polygon
+    obstacle0002:
+      corners:
+      - [3.0, 1.0]
+      - [3.0, 4.0]
+      - [4.0, 4.0]
+      - [4.0, 1.0]
+      - [3.0, 1.0]
+      shape: polygon
+    obstacle0003:
+      corners:
+      - [7.0, 3.0]
+      - [7.0, 8.0]
+      - [8.0, 8.0]
+      - [8.0, 3.0]
+      - [7.0, 3.0]
+      shape: polygon
+    obstacle0004:
+      corners:
+      - [7.0, -3.0]
+      - [7.0, 2.0]
+      - [8.0, 2.0]
+      - [8.0, -3.0]
+      - [7.0, -3.0]
+      shape: polygon
